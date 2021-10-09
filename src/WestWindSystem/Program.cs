@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Text.Json;
 
 namespace WestWindSystem
 {
@@ -9,9 +10,9 @@ namespace WestWindSystem
         static void Main(string[] args)
         {
             var app = new Program();
-            app.Ex01a();
+            //app.Ex01a();
             //app.Ex01b();
-            //app.Ex02a();
+            app.Ex02a();
             //app.Ex02b();
         }
         #region Ex01a
