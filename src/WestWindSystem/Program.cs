@@ -12,8 +12,8 @@ namespace WestWindSystem
             var app = new Program();
             //app.Ex01a();
             //app.Ex01b();
-            app.Ex02a();
-            //app.Ex02b();
+            //app.Ex02a();
+            app.Ex02b();
         }
         #region Ex01a
         private void Ex01a()
