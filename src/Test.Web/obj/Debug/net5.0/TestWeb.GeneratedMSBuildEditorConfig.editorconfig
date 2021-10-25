@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = TestWeb
-build_property.ProjectDir = S:\CPSC1517\Repos\dotnetcore5-demos-westwind\src\Test.Web\
+build_property.ProjectDir = s:\CPSC1517\Repos\dotnetcore5-demos-westwind\src\Test.Web\
