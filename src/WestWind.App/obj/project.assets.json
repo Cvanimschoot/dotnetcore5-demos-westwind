@@ -5663,23 +5663,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\robbi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Clayton\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.App\\WestWindApp.csproj",
+      "projectUniqueName": "S:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.App\\WestWindApp.csproj",
       "projectName": "WestWindApp",
-      "projectPath": "C:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.App\\WestWindApp.csproj",
-      "packagesPath": "C:\\Users\\robbi\\.nuget\\packages\\",
-      "outputPath": "C:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.App\\obj\\",
+      "projectPath": "S:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.App\\WestWindApp.csproj",
+      "packagesPath": "C:\\Users\\Clayton\\.nuget\\packages\\",
+      "outputPath": "S:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.App\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\robbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Clayton\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5725,7 +5721,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
