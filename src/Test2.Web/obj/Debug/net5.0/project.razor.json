@@ -1,5 +1,5 @@
 {
-  "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.Web\\WestWindWeb.csproj",
+  "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\Test2.Web\\Test2.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15616,61 +15616,46 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "WestWindWeb",
+  "RootNamespace": "Test2",
   "Documents": [
     {
-      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.Web\\Pages\\Crud.cshtml",
-      "TargetPath": "Pages\\Crud.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.Web\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.Web\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.Web\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.Web\\Pages\\Contact.cshtml",
-      "TargetPath": "Pages\\Contact.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.Web\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\Test2.Web\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.Web\\Pages\\About.cshtml",
-      "TargetPath": "Pages\\About.cshtml",
+      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\Test2.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.Web\\Pages\\Error.cshtml",
+      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\Test2.Web\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\Test2.Web\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.Web\\Pages\\Query.cshtml",
-      "TargetPath": "Pages\\Query.cshtml",
+      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\Test2.Web\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.Web\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
+      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\Test2.Web\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\Test2.Web\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "s:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\Test2.Web\\Pages\\hi.cshtml",
+      "TargetPath": "Pages\\hi.cshtml",
       "FileKind": "mvc"
     }
   ],
